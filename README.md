@@ -1,5 +1,5 @@
 ## PROJECT SUMMARY:
-REST APIs are built utilizing Python Django framework and Mysql DB.
+Building REST APIs using Python Django framework and Mysql DB.
 
 It contains the below mentioned endpoints:
 - a GET '/math'
